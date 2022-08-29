@@ -1,0 +1,22 @@
+.main-container{
+    display: flex;
+    align-items: center;
+    justify-content: stretch;
+}
+body{
+    margin: 0px;;
+    color:white
+}
+
+.left-container{
+    width:50%;
+    height:auto;
+    background-image: url(laura-cleffmann-rL6q_Y5uBLs-unsplash.jpg);
+    background-color: #3c339a;
+    background-size: cover;
+}
+.right-container{
+    width:50%;
+    height:auto;
+    background-color: black
+}
